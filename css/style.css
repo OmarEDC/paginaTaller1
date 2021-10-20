@@ -1,0 +1,91 @@
+body {
+  background-color: #293241;
+  text-align: center;
+  color:#ee6c4d;
+}
+h1 {
+  color: #ee6c4d;
+  font-size: 40px;
+}
+#logo{
+text-align: left;
+width: 15%;
+}
+p {
+  color: #e0fbfc;
+  background-color:#3d5a80;
+  padding: 15px;
+  border: 10px solid #98c1d9;
+  margin: 50px;
+  font-size: 30px;
+}
+a:link{
+    color: #ee6c4d;
+    text-decoration: none;
+}
+a:visited{
+    color:#98c1d9;
+    text-decoration: none;/* Quita el subrayado del enlace*/
+}
+/*Cuando nos ponemos encima del enlace*/
+a:hover{
+    color:seashell;
+    text-decoration: underline;
+}
+a:active{
+    color: sienna;
+    text-decoration: underline;
+}
+
+
+main{
+  width: 100%;
+  /*border: 5px solid black;*/
+  height: 1900px;
+}
+
+img{
+  width: 50%;
+}
+
+#img3{
+  width: 60%;
+  margin-left: 30%;
+  float:left;
+}
+
+h2{ 
+  font-size: 40px;
+  text-align:center;
+  margin-top: 150px;
+  margin-right: 10%;
+}
+.container1{
+  width: 100%;
+  height: auto;
+  float: left;
+}
+.container2{
+  width: 100%;
+  height: auto;
+  float: left;
+}
+.container3{
+  width: 100%;
+  height: auto;
+  float: left;
+}
+.container4{
+  width: 50%;
+  height: auto;
+  float: left;
+}
+.container5{
+  width: 50%;
+  height: auto;
+  float: left;
+}
+footer{
+  width: 100%;
+  height: auto;
+}
